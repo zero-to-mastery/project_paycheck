@@ -194,6 +194,16 @@
         "PostgreSQL",
         "JavaScript"
       ]
+    },
+    {
+      "discord-name": "Nadnad",
+      "trello-name": "ngaya1",
+      "desired-role": "fullstack",
+      "skills": [
+        "React",
+        "JavaScript"
+      ]
     }
+
   ]
 }
