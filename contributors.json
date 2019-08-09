@@ -194,6 +194,19 @@
         "PostgreSQL",
         "JavaScript"
       ]
+    },
+    {
+      "discord-name": "Mohit#0671",
+      "trello-name": "Mohit Bajaj",
+      "desired-role": "fullstack",
+      "skills": [
+        "React",
+        "Redux",
+        "PostgreSQL",
+		"JavaScript",
+		"Node",
+		"Express"
+      ]
     }
   ]
 }
