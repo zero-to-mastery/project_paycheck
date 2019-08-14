@@ -133,4 +133,16 @@
       ]
     }
   ]
-}
+},
+{
+      "discord-name": "Cap10Kirk",
+      "trello-name": "Quiara Kirkland",
+      "desired-role": "front-end",
+      "skills": [
+        "JavaScript",
+        "Node (some)",
+        "React",
+        "Redux (some)",
+        ""
+      ]
+    },
